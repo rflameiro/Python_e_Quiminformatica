@@ -6,4 +6,4 @@ Para aprender a linguagem Python, recomendo as três playlists no Youtube do Gus
 Descrições mais avançadas das funcionalidades do Python estão disponíveis na documentação oficial, em português (https://docs.python.org/pt-br/3/).
 
 Note que os materiais em língua portuguesa são limitados, e para progredir, será necessário algum conhecimento de inglês. 
-Diversos cursos estão disponíveis gratuitamente nesse idioma, recomendo principalmente os do Kaggle e freecodecamp.
+Diversos cursos estão disponíveis gratuitamente nesse idioma, recomendo principalmente os do Kaggle e freecodecamp, além de diversos tutoriais disponíveis no Youtube, Machine Learning Mastery e Towards Data Science.
