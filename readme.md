@@ -7,3 +7,5 @@ Descrições mais avançadas das funcionalidades do Python estão disponíveis n
 
 Note que os materiais em língua portuguesa são limitados e, para progredir, será necessário algum conhecimento de inglês. 
 Diversos cursos estão disponíveis gratuitamente nesse idioma; recomendo principalmente os do [Kaggle](https://www.kaggle.com/learn) e [freecodecamp](https://www.freecodecamp.org/), além de diversos tutoriais disponíveis no Youtube, [Machine Learning Mastery](https://machinelearningmastery.com/) e [Towards Data Science](https://www.towardsdatascience.com/).
+
+"As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do(s) autor(es) e não necessariamente refletem a visão da FAPESP"
