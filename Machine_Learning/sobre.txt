@@ -1,0 +1,1 @@
+Notebooks contendo código e discussões sobre métodos de aprendizado de máquina (em alguns, dados referentes a problemas de química são usados).
