@@ -1,13 +1,21 @@
-Notebooks em português-BR contendo uma revisão de funcionalidades da linguagem Python e tutoriais de aprendizado de máquina e quiminformática (programação aplicada a problemas de química) usando a linguagem Python.
-Se tiver sugestões, deixe um comentário.
+# :brazil: Python e Quiminformática :brazil:
 
-Recomendações: 
+Jupyter Notebooks em português-BR contendo uma revisão de funcionalidades da linguagem Python e tutoriais sobre aprendizado de máquina e quiminformática (programação aplicada a problemas de química) usando a linguagem Python. </br>
+Se tiver sugestões ou notar algum erro, deixe um comentário na forma de Issue.
+
+## Recomendações
+
+Esses tutoriais não funcionam como material didático, mas apenas como revisão de conceitos e tutoriais para problemas específicos. Para aprender programação e conceitos de aprendizado de máquina, ciências de dados e quiminformática, deixo abaixo algumas sugestões:
 
 Para aprender a linguagem Python, recomendo começar com as três playlists no canal do Youtube do [Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6).
 
 Descrições mais avançadas das funcionalidades do Python estão disponíveis na [documentação oficial, em português](https://docs.python.org/pt-br/3/).
 
 Note que os materiais em língua portuguesa são limitados e, para progredir, será necessário algum conhecimento de inglês. 
-Diversos cursos estão disponíveis gratuitamente nesse idioma; recomendo principalmente os do [Kaggle](https://www.kaggle.com/learn) e [freecodecamp](https://www.freecodecamp.org/), além de diversos tutoriais disponíveis no Youtube e nos sites [Machine Learning Mastery](https://machinelearningmastery.com/) e [Towards Data Science](https://www.towardsdatascience.com/).
+Diversos cursos estão disponíveis gratuitamente nesse idioma; recomendo principalmente os do [Kaggle](https://www.kaggle.com/learn) e [freecodecamp](https://www.freecodecamp.org/), além de diversos tutoriais disponíveis no Youtube e nos sites [Machine Learning Mastery](https://machinelearningmastery.com/) e [Towards Data Science](https://www.towardsdatascience.com/). 
+
+Para dominar os conceitos, será necessário aplicá-los. Para isso, é possível usar os bancos de dados disponíveis nos desafios do [Kaggle](https://www.kaggle.com/) e desenvolver seu próprio projeto, tentando montar Notebooks como os que eu apresento.
+
+## Sobre o projeto
 
 Projeto desenvolvido durante a realização de curso de Doutorado em Química pelo Instituto de Química de São Carlos - Universidade de São Paulo, financiado pelas agências CAPES (88887.601935/2021-00) e FAPESP (2021/01633-3). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do autor e não necessariamente refletem a visão das agências de fomento ou das instituiçoes nas quais o projeto foi desenvolvido.
