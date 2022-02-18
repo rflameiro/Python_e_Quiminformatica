@@ -1,20 +1,39 @@
 # :brazil: Python e Quiminformática :brazil:
 
 Jupyter Notebooks em português-BR contendo uma revisão de funcionalidades da linguagem Python e tutoriais sobre aprendizado de máquina e quiminformática (programação aplicada a problemas de química) usando a linguagem Python. </br>
-Se tiver sugestões ou notar algum erro, deixe um comentário na forma de Issue.
+Se tiver sugestões ou notar algum erro, deixe um comentário na forma de *Issue*.
 
 ## Recomendações
+
+### Material em português
 
 Esses tutoriais não funcionam como material didático, mas apenas como revisão de conceitos e tutoriais para problemas específicos. Para aprender programação e conceitos de aprendizado de máquina, ciências de dados e quiminformática, deixo abaixo algumas sugestões:
 
 Para aprender a linguagem Python, recomendo começar com as três playlists no canal do Youtube do [Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6).
 
-Descrições mais avançadas das funcionalidades do Python estão disponíveis na [documentação oficial, em português](https://docs.python.org/pt-br/3/).
+Descrições mais avançadas das funcionalidades do Python estão disponíveis na [documentação oficial, também disponível em português](https://docs.python.org/pt-br/3/).
 
-Note que os materiais em língua portuguesa são limitados e, para progredir, será necessário algum conhecimento de inglês. 
-Diversos cursos estão disponíveis gratuitamente nesse idioma; recomendo principalmente os do [Kaggle](https://www.kaggle.com/learn) e [freecodecamp](https://www.freecodecamp.org/), além de diversos tutoriais disponíveis no Youtube e nos sites [Machine Learning Mastery](https://machinelearningmastery.com/) e [Towards Data Science](https://www.towardsdatascience.com/). 
+O canal no YouTube [Statquest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) possui diversos vídeos legendados em português, e apresenta de forma leve e detalhada diversos conceitos de estatística e aprendizado de máquina.
 
-Para dominar os conceitos, será necessário aplicá-los. Para isso, é possível usar os bancos de dados disponíveis nos desafios do [Kaggle](https://www.kaggle.com/) e desenvolver seu próprio projeto, tentando montar Notebooks como os que eu apresento.
+### Material em inglês
+
+Os materiais em língua portuguesa são infelizmente limitados e, para progredir, será necessário algum conhecimento de inglês. 
+
+Cursos 
+- [Kaggle](https://www.kaggle.com/learn)
+- [freecodecamp](https://www.freecodecamp.org/)
+
+Sites
+- [Machine Learning Mastery](https://machinelearningmastery.com/). Tutoriais completos de aprendizado de máquina para as mais diversas aplicações.
+- [Stack Overflow](https://stackoverflow.com/). A principal forma de tirar dúvidas referentes a programação e aprendizado de máquina. Dizem que aprender a programar é aprender a pesquisar sua dúvida no Stack Overflow. Antes de fazer uma pergunta, verifique se ela já não foi feita (provavelmente já foi!).
+- [Towards Data Science](https://www.towardsdatascience.com/). Para problemas mais específicos, pode ser uma boa fonte.
+
+Livros
+- [An Introduction to Statistical Learning](https://www.statlearning.com/). Uma excelente fonte para compreender conceitos de estatística e aprendizado de máquina.
+- [Think Python](https://open.umn.edu/opentextbooks/textbooks/43). Para mim, o melhor livro para se aprofundar na linguagem Python.
+- Deep Learning with Python. Livro mais avançado, sobre aprendizado profundo. 
+
+Para dominar os conceitos, **será necessário aplicá-los**. Para isso, resolva exercícios e desenvolva seus próprios projetos. É possível usar os bancos de dados disponíveis nos desafios do [Kaggle](https://www.kaggle.com/), por exemplo.
 
 ## Sobre o projeto
 
