@@ -1,4 +1,4 @@
-# :brazil: Python e Quiminformática :brazil:
+# Python e Quiminformática :brazil:
 
 Jupyter Notebooks em português-BR contendo uma revisão de funcionalidades da linguagem Python e tutoriais sobre aprendizado de máquina e quiminformática (programação aplicada a problemas de química) usando a linguagem Python. </br>
 Se tiver sugestões ou notar algum erro, deixe um comentário na forma de *Issue*.
@@ -38,3 +38,7 @@ Para dominar os conceitos, **será necessário aplicá-los**. Para isso, resolva
 ## Sobre o projeto
 
 Projeto desenvolvido durante a realização de curso de Doutorado em Química pelo Instituto de Química de São Carlos - Universidade de São Paulo, financiado pelas agências CAPES (88887.601935/2021-00) e FAPESP (2021/01633-3). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do autor e não necessariamente refletem a visão das agências de fomento ou das instituiçoes nas quais o projeto foi desenvolvido.
+
+## TO DO
+- Redes neurais
+- AutoSKLearn e AutoKeras (para DL)
