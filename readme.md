@@ -3,6 +3,10 @@
 Jupyter Notebooks em português-BR contendo uma revisão de funcionalidades da linguagem Python e tutoriais sobre aprendizado de máquina e quiminformática (programação aplicada a problemas de química) usando a linguagem Python. </br>
 Se tiver sugestões ou notar algum erro, deixe um comentário na forma de *Issue*.
 
+## Importante
+
+Os materiais disponibilizados aqui devem ser usados somente para fins de estudo. Não recomendo sua reprodução (principalmente para fins comerciais), tendo em vista que boa parte do código foi **copiada** de fontes *online*.
+
 ## Recomendações
 
 ### Material em português
@@ -11,7 +15,7 @@ Esses tutoriais não funcionam como material didático, mas apenas como revisão
 
 Para aprender a linguagem Python, recomendo começar com as três playlists no canal do Youtube do [Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6).
 
-Descrições mais avançadas das funcionalidades do Python estão disponíveis na [documentação oficial, também disponível em português](https://docs.python.org/pt-br/3/).
+Descrições mais avançadas das funcionalidades do Python estão disponíveis na [documentação oficial, disponível em português](https://docs.python.org/pt-br/3/).
 
 O canal no YouTube [Statquest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) possui diversos vídeos legendados em português, e apresenta de forma leve e detalhada diversos conceitos de estatística e aprendizado de máquina.
 
@@ -38,7 +42,3 @@ Para dominar os conceitos, **será necessário aplicá-los**. Para isso, resolva
 ## Sobre o projeto
 
 Projeto desenvolvido durante a realização de curso de Doutorado em Química pelo Instituto de Química de São Carlos - Universidade de São Paulo, financiado pelas agências CAPES (88887.601935/2021-00) e FAPESP (2021/01633-3). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do autor e não necessariamente refletem a visão das agências de fomento ou das instituiçoes nas quais o projeto foi desenvolvido.
-
-## TO DO
-- Redes neurais
-- AutoSKLearn e AutoKeras (para DL)
