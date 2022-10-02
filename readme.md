@@ -37,7 +37,7 @@ Livros
 - [Think Python](https://open.umn.edu/opentextbooks/textbooks/43). Para mim, o melhor livro para se aprofundar na linguagem Python.
 - Deep Learning with Python. Livro mais avançado, sobre aprendizado profundo. 
 
-Para dominar os conceitos, **será necessário aplicá-los**. Para isso, resolva exercícios e desenvolva seus próprios projetos. É possível usar os bancos de dados disponíveis nos desafios do [Kaggle](https://www.kaggle.com/), por exemplo.
+Para dominar os conceitos, **será necessário aplicá-los**. Para isso, é importante resolver exercícios e desenvolver seus próprios projetos de acordo com seus interesses. O site [Codewars](https://www.codewars.com/) é bom para praticar linguagens de programação em geral, com problemas que variam de simples a mais complexos. Tente tambem usar os bancos de dados disponíveis nos desafios do [Kaggle](https://www.kaggle.com/) ou mesmo do [ChEMBL(https://www.ebi.ac.uk/chembl/) para realizar seus projetos.
 
 ## Sobre o projeto
 
