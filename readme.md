@@ -19,6 +19,8 @@ Descrições mais avançadas das funcionalidades do Python estão disponíveis n
 
 O canal no YouTube [Statquest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) possui diversos vídeos legendados em português, e apresenta de forma leve e detalhada diversos conceitos de estatística e aprendizado de máquina.
 
+Livro [Aprendizado de máquina: uma abordagem estatística](http://www.rizbicki.ufscar.br/ame/)
+
 ### Material em inglês
 
 Os materiais em língua portuguesa são infelizmente limitados e, para progredir, será necessário algum conhecimento de inglês. 
@@ -27,10 +29,13 @@ Cursos
 - [Kaggle](https://www.kaggle.com/learn)
 - [freecodecamp](https://www.freecodecamp.org/)
 
-Sites
+Sites e blogs
 - [Machine Learning Mastery](https://machinelearningmastery.com/). Tutoriais completos de aprendizado de máquina para as mais diversas aplicações.
 - [Stack Overflow](https://stackoverflow.com/). A principal forma de tirar dúvidas referentes a programação e aprendizado de máquina. Dizem que aprender a programar é aprender a pesquisar sua dúvida no Stack Overflow. Antes de fazer uma pergunta, verifique se ela já não foi feita (provavelmente já foi!).
 - [Towards Data Science](https://www.towardsdatascience.com/). Para problemas mais específicos, pode ser uma boa fonte.
+- [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/). Scripts de quiminformática em Python
+- [Is life worth living?](https://iwatobipen.wordpress.com/). Scripts de quiminformática em Python
+- [Blog do RDKit](https://greglandrum.github.io/rdkit-blog/)
 
 Livros
 - [An Introduction to Statistical Learning](https://www.statlearning.com/). Uma excelente fonte para compreender conceitos de estatística e aprendizado de máquina.
