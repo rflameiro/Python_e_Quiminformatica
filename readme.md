@@ -1,11 +1,11 @@
-# Python e Quiminformática :brazil:
+# Python e Quiminformática
 
 Jupyter Notebooks em português-BR contendo uma revisão de funcionalidades da linguagem Python e tutoriais sobre aprendizado de máquina e quiminformática (programação aplicada a problemas de química) usando a linguagem Python. </br>
 Se tiver sugestões ou notar algum erro, deixe um comentário na forma de *Issue*.
 
 ## Importante
 
-Os materiais disponibilizados aqui devem ser usados somente para fins de estudo. Não recomendo sua reprodução (principalmente para fins comerciais), tendo em vista que parte das explicações e das linhas de código podem ter sido copiadas ou traduzidas diretamente de fontes *online*.
+Os materiais disponibilizados aqui foram desenvolvidos para fins de estudo. Não recomendo sua reprodução (principalmente para fins comerciais), tendo em vista que parte das explicações e das linhas de código podem ter sido copiadas ou traduzidas diretamente de fontes *online*. Procuro indicar todas as referências utilizadas nos próprios *Notebooks*, e recomendo a citação das fontes originais, caso opte por utilizar parte do código aqui apresentado.
 
 ## Recomendações
 
