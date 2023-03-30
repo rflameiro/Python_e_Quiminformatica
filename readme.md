@@ -5,7 +5,7 @@ Se tiver sugestões ou notar algum erro, deixe um comentário na forma de *Issue
 
 ## Importante
 
-Os materiais disponibilizados aqui devem ser usados somente para fins de estudo. Não recomendo sua reprodução (principalmente para fins comerciais), tendo em vista que boa parte do código foi **copiada** de fontes *online*.
+Os materiais disponibilizados aqui devem ser usados somente para fins de estudo. Não recomendo sua reprodução (principalmente para fins comerciais), tendo em vista que parte das explicações e das linhas de código podem ter sido copiadas ou traduzidas diretamente de fontes *online*.
 
 ## Recomendações
 
