@@ -46,4 +46,4 @@ Para dominar os conceitos, **será necessário aplicá-los**. Para isso, é impo
 
 ## Sobre o projeto
 
-Projeto desenvolvido durante a realização de curso de Doutorado em Química pelo Instituto de Química de São Carlos - Universidade de São Paulo, financiado pelas agências CAPES (88887.601935/2021-00) e FAPESP (2021/01633-3). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do autor e não necessariamente refletem a visão das agências de fomento ou das instituiçoes nas quais o projeto foi desenvolvido.
+Projeto desenvolvido durante a realização de curso de Doutorado em Química pelo Instituto de Química de São Carlos - Universidade de São Paulo, financiado pelas agências CAPES (88887.601935/2021-00) e FAPESP (2021/01633-3). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do autor e não necessariamente refletem a visão das agências de fomento ou das instituições nas quais o projeto foi desenvolvido.
