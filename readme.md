@@ -19,6 +19,8 @@ Descrições mais avançadas das funcionalidades do Python estão disponíveis n
 
 O canal no YouTube [Statquest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) possui diversos vídeos legendados em português, e apresenta de forma leve e detalhada diversos conceitos de estatística e aprendizado de máquina.
 
+Atualização (2023): não posso deixar de recomendar o ChatGPT como gerador de códigos mais simples, porém, não confie cegamente nos resultados fornecidos! Procure sempre entender o que está sendo feito, somente assim será capaz de corrigir os códigos que venham com *bugs* ou que não façam exatamente o que você quer.
+
 ### Material em inglês
 
 Os materiais em língua portuguesa são infelizmente limitados e, para progredir, será necessário algum conhecimento de inglês. 
