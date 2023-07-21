@@ -11,15 +11,15 @@ Os materiais disponibilizados aqui foram desenvolvidos para fins de estudo. Não
 
 ### Material em português
 
-Esses tutoriais não funcionam como material didático, mas apenas como revisão de conceitos e tutoriais para problemas específicos. Para aprender programação e conceitos de aprendizado de máquina, ciências de dados e quiminformática, deixo abaixo algumas sugestões:
+Use esse material para revisão de conceitos e como tutoriais para problemas específicos. Para realmente aprender programação e conceitos de aprendizado de máquina, ciências de dados e quiminformática, deixo abaixo algumas sugestões:
 
-Para aprender a linguagem Python, recomendo começar com as três playlists no canal do Youtube do [Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6).
+Para aprender a linguagem Python do zero, recomendo começar com as três playlists no canal do Youtube do [Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6).
 
 Descrições mais avançadas das funcionalidades do Python estão disponíveis na [documentação oficial, disponível em português](https://docs.python.org/pt-br/3/).
 
 O canal no YouTube [Statquest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) possui diversos vídeos legendados em português, e apresenta de forma leve e detalhada diversos conceitos de estatística e aprendizado de máquina.
 
-Atualização (2023): não posso deixar de recomendar o ChatGPT como gerador de códigos mais simples, porém, não confie cegamente nos resultados fornecidos! Procure sempre entender o que está sendo feito, somente assim será capaz de corrigir os códigos que venham com *bugs* ou que não façam exatamente o que você quer.
+Atualização (2023): não posso deixar de recomendar o ChatGPT (e outras ferramentas de IA) como gerador de códigos mais simples, porém, não confie cegamente nos resultados fornecidos! Procure sempre entender o que está sendo feito, somente assim será capaz de corrigir os códigos que venham com *bugs* ou que não façam exatamente o que você quer.
 
 ### Material em inglês
 
@@ -42,8 +42,8 @@ Livros
 - [Think Python](https://open.umn.edu/opentextbooks/textbooks/43). Para mim, o melhor livro para se aprofundar na linguagem Python.
 - Deep Learning with Python. Livro mais avançado, sobre aprendizado profundo. 
 
-Para dominar os conceitos, **será necessário aplicá-los**. Para isso, é importante resolver exercícios e desenvolver seus próprios projetos de acordo com seus interesses. O site [Codewars](https://www.codewars.com/) é bom para praticar linguagens de programação em geral, com problemas que variam de simples a mais complexos. Tente tambem usar os bancos de dados disponíveis nos desafios do [Kaggle](https://www.kaggle.com/) ou mesmo do [ChEMBL](https://www.ebi.ac.uk/chembl/) para realizar seus projetos.
+Para dominar os conceitos, **será necessário aplicá-los**. Para isso, é importante resolver exercícios e desenvolver seus próprios projetos de acordo com seus interesses. O site [Codewars](https://www.codewars.com/) é bom para praticar linguagens de programação em geral, com problemas que variam desde simples até os bem avançados. Tente tambem usar os bancos de dados disponíveis nos desafios do [Kaggle](https://www.kaggle.com/) ou mesmo do [ChEMBL](https://www.ebi.ac.uk/chembl/) para realizar seus projetos.
 
 ## Sobre o projeto
 
-Projeto desenvolvido durante a realização de curso de Doutorado em Química pelo Instituto de Química de São Carlos - Universidade de São Paulo, financiado pelas agências CAPES (88887.601935/2021-00) e FAPESP (2021/01633-3). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do autor e não necessariamente refletem a visão das agências de fomento ou das instituições nas quais o projeto foi desenvolvido.
+Projeto desenvolvido pelo autor durante o desenvolvimento de seu projeto de Doutorado em Química pelo Instituto de Química de São Carlos - Universidade de São Paulo, financiado pelas agências CAPES (88887.601935/2021-00) e FAPESP (2021/01633-3). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do autor e não necessariamente refletem a visão das agências de fomento ou das instituições nas quais o projeto foi desenvolvido.
