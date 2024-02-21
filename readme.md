@@ -46,4 +46,4 @@ Para dominar os conceitos, **será necessário aplicá-los**. Para isso, é impo
 
 ## Sobre o projeto
 
-Projeto desenvolvido pelo autor durante o desenvolvimento de seu projeto de Doutorado em Química pelo Instituto de Química de São Carlos - Universidade de São Paulo, financiado pelas agências CAPES (88887.601935/2021-00) e FAPESP (2021/01633-3). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do autor e não necessariamente refletem a visão das agências de fomento ou das instituições nas quais o projeto foi desenvolvido.
+Este repositório foi desenvolvido pelo autor durante o seu projeto de Doutorado em Química Orgânica e Biológica (Instituto de Química de São Carlos - Universidade de São Paulo) na área de Quiminformática para Química Medicinal. O projeto foi financiado pelas agências CAPES (88887.601935/2021-00) e FAPESP (2021/01633-3). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do autor e não necessariamente refletem a visão das agências de fomento ou das instituições nas quais o projeto foi desenvolvido.
