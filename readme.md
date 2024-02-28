@@ -1,6 +1,6 @@
 # Python e Quiminformática
 
-Jupyter Notebooks em português-BR contendo uma revisão de funcionalidades da linguagem Python e tutoriais sobre aprendizado de máquina e quiminformática (programação aplicada a problemas de química) usando a linguagem Python. </br>
+Jupyter Notebooks em português-BR contendo uma revisão de funcionalidades da linguagem Python e tutoriais sobre aprendizado de máquina e quiminformática (ou quimioinformática, podemos dizer que se trata do uso de métodos de estatística e programação aplicados a problemas de química) usando a linguagem Python. </br>
 Se tiver sugestões ou notar algum erro, deixe um comentário na forma de *Issue*.
 
 ## Importante
@@ -11,7 +11,7 @@ Os materiais disponibilizados aqui foram desenvolvidos para fins de estudo. Não
 
 ### Material em português
 
-Use esse material para revisão de conceitos e como tutoriais para problemas específicos. Para realmente aprender programação e conceitos de aprendizado de máquina, ciências de dados e quiminformática, deixo abaixo algumas sugestões:
+Use este material para revisão de conceitos e como tutoriais para problemas específicos. Para realmente aprender programação e conceitos de aprendizado de máquina, ciências de dados e quiminformática, deixo abaixo algumas sugestões:
 
 Para aprender a linguagem Python do zero, recomendo começar com as três playlists no canal do Youtube do [Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6).
 
@@ -23,7 +23,7 @@ Atualização (2023): não posso deixar de recomendar o ChatGPT (e outras ferram
 
 ### Material em inglês
 
-Os materiais em língua portuguesa são infelizmente limitados e, para progredir, será necessário algum conhecimento de inglês. 
+Os materiais em língua portuguesa são infelizmente limitados e, para progredir, será necessário algum conhecimento de inglês. Recomendações:
 
 Cursos 
 - [Kaggle](https://www.kaggle.com/learn)
@@ -42,7 +42,7 @@ Livros
 - [Think Python](https://open.umn.edu/opentextbooks/textbooks/43). Para mim, o melhor livro para se aprofundar na linguagem Python.
 - Deep Learning with Python. Livro mais avançado, sobre aprendizado profundo. 
 
-Para dominar os conceitos, **será necessário aplicá-los**. Para isso, é importante resolver exercícios e desenvolver seus próprios projetos de acordo com seus interesses. O site [Codewars](https://www.codewars.com/) é bom para praticar linguagens de programação em geral, com problemas que variam desde simples até os bem avançados. Tente tambem usar os bancos de dados disponíveis nos desafios do [Kaggle](https://www.kaggle.com/) ou mesmo do [ChEMBL](https://www.ebi.ac.uk/chembl/) para realizar seus projetos.
+Para dominar os conceitos, **será necessário aplicá-los**. Para isso, é importante resolver exercícios e desenvolver seus próprios projetos de acordo com seus interesses. O site [Codewars](https://www.codewars.com/) é bom para praticar linguagens de programação em geral, com problemas que variam desde simples até os bem avançados. Tente tambem usar os bancos de dados disponíveis nos desafios do [Kaggle](https://www.kaggle.com/) ou mesmo do [ChEMBL](https://www.ebi.ac.uk/chembl/) para desenvolver projetos e praticar.
 
 ## Sobre o projeto
 
