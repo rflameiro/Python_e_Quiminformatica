@@ -25,11 +25,11 @@ Atualização (2023): não posso deixar de recomendar o ChatGPT (e outras ferram
 
 Os materiais em língua portuguesa são infelizmente limitados e, para progredir, será necessário algum conhecimento de inglês. Recomendações:
 
-Cursos 
+**Cursos**
 - [Kaggle](https://www.kaggle.com/learn)
 - [freecodecamp](https://www.freecodecamp.org/)
 
-Sites e blogs
+**Sites e blogs**
 - [Machine Learning Mastery](https://machinelearningmastery.com/). Tutoriais completos de aprendizado de máquina para as mais diversas aplicações.
 - [Stack Overflow](https://stackoverflow.com/). A principal forma de tirar dúvidas referentes a programação e aprendizado de máquina. Dizem que aprender a programar é aprender a pesquisar sua dúvida no Stack Overflow. Antes de fazer uma pergunta, verifique se ela já não foi feita (provavelmente já foi!).
 - [Towards Data Science](https://www.towardsdatascience.com/). Para problemas mais específicos, pode ser uma boa fonte.
@@ -37,7 +37,7 @@ Sites e blogs
 - [Is life worth living?](https://iwatobipen.wordpress.com/). Scripts de quiminformática em Python
 - [Blog do RDKit](https://greglandrum.github.io/rdkit-blog/)
 
-Livros
+**Livros**
 - [An Introduction to Statistical Learning](https://www.statlearning.com/). Uma excelente fonte para compreender conceitos de estatística e aprendizado de máquina.
 - [Think Python](https://open.umn.edu/opentextbooks/textbooks/43). Para mim, o melhor livro para se aprofundar na linguagem Python.
 - Deep Learning with Python. Livro mais avançado, sobre aprendizado profundo. 
